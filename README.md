@@ -13,4 +13,4 @@ insercion de imagenes
 ![yamaha](https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RCOMP/2024-Yamaha-YZF600R6RCOMP-EU-Tech_Black-Studio-001-03.jpg)
 
 uso de citas
-[^1]: https://es.wikipedia.org/wiki/Vin_Diesel
+> presten atencion al video
