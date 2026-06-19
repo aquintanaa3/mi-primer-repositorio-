@@ -14,3 +14,4 @@ insercion de imagenes
 
 uso de citas
 > presten atencion al video
+> R6 la mejor del mundo
