@@ -16,3 +16,5 @@ uso de citas
 > presten atencion al video
 
 > R6 la mejor del mundo
+
+> Ecuador le va a ganar a curazao 5-0
